@@ -1,0 +1,91 @@
+{
+    "meta": {
+        "id": "assignment_01"
+    },
+    "results": [
+        {
+            "astar_euclidean": {
+                "nodes_explored": 164,
+                "path_found": true,
+                "path_length": 58,
+                "time_ms": 0.2249
+            },
+            "astar_manhattan": {
+                "nodes_explored": 161,
+                "path_found": true,
+                "path_length": 58,
+                "time_ms": 0.1939
+            },
+            "dijkstra": {
+                "nodes_explored": 183,
+                "path_found": true,
+                "path_length": 58,
+                "time_ms": 0.2362
+            },
+            "id": 1
+        },
+        {
+            "astar_euclidean": {
+                "nodes_explored": 164,
+                "path_found": true,
+                "path_length": 48,
+                "time_ms": 0.1983
+            },
+            "astar_manhattan": {
+                "nodes_explored": 175,
+                "path_found": true,
+                "path_length": 48,
+                "time_ms": 0.211
+            },
+            "dijkstra": {
+                "nodes_explored": 183,
+                "path_found": true,
+                "path_length": 48,
+                "time_ms": 0.1909
+            },
+            "id": 2
+        },
+        {
+            "astar_euclidean": {
+                "nodes_explored": 148,
+                "path_found": true,
+                "path_length": 44,
+                "time_ms": 0.1725
+            },
+            "astar_manhattan": {
+                "nodes_explored": 145,
+                "path_found": true,
+                "path_length": 44,
+                "time_ms": 0.1739
+            },
+            "dijkstra": {
+                "nodes_explored": 165,
+                "path_found": true,
+                "path_length": 44,
+                "time_ms": 0.1778
+            },
+            "id": 3
+        },
+        {
+            "astar_euclidean": {
+                "nodes_explored": 146,
+                "path_found": true,
+                "path_length": 48,
+                "time_ms": 0.1575
+            },
+            "astar_manhattan": {
+                "nodes_explored": 135,
+                "path_found": true,
+                "path_length": 48,
+                "time_ms": 0.157
+            },
+            "dijkstra": {
+                "nodes_explored": 156,
+                "path_found": true,
+                "path_length": 48,
+                "time_ms": 0.1674
+            },
+            "id": 4
+        }
+    ]
+}
