@@ -1,0 +1,51 @@
+{
+    "meta": {
+        "id": "assignment_02"
+    },
+    "results": [
+        {
+            "brute_force": {
+                "optimal_cost": 8.0,
+                "tour": [
+                    0,
+                    1,
+                    2,
+                    0
+                ]
+            },
+            "held_karp": {
+                "optimal_cost": 8.0,
+                "tour": [
+                    0,
+                    2,
+                    1,
+                    0
+                ]
+            },
+            "id": 1
+        },
+        {
+            "brute_force": {
+                "optimal_cost": 18.0,
+                "tour": [
+                    0,
+                    1,
+                    4,
+                    3,
+                    0
+                ]
+            },
+            "held_karp": {
+                "optimal_cost": 18.0,
+                "tour": [
+                    0,
+                    3,
+                    4,
+                    1,
+                    0
+                ]
+            },
+            "id": 2
+        }
+    ]
+}

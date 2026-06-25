@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "id": "assignment_03"
+    },
+    "results": [
+        {
+            "cost": 10.0,
+            "query_id": 1,
+            "tour": [
+                0,
+                2,
+                1,
+                0
+            ]
+        },
+        {
+            "cost": 24.0,
+            "query_id": 2,
+            "tour": [
+                0,
+                6,
+                5,
+                4,
+                0
+            ]
+        }
+    ]
+}
