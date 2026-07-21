@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "id": "assignment_02"
+    },
+    "results": [
+        {
+            "id": 1,
+            "simulated_annealing": {
+                "cost": 8.0,
+                "time_us": 162691.1,
+                "tour": [
+                    0,
+                    2,
+                    1,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "simulated_annealing": {
+                "cost": 18.0,
+                "time_us": 109538.7,
+                "tour": [
+                    0,
+                    1,
+                    4,
+                    3,
+                    0
+                ]
+            }
+        }
+    ]
+}
